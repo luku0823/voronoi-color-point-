@@ -1,6 +1,7 @@
 # voronoi-color-point-
 
 ### MY CODE
+```python 
 from PIL import Image
 import random
 import math
@@ -46,3 +47,5 @@ def 보로노이_다이어그램_생성(폭, 높이, 셀_숫자):
 
 if __name__== "__main__":
   보로노이_다이어그램_생성(1000, 500,22)
+  ```
+  
